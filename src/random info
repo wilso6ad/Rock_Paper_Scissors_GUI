@@ -1,0 +1,4 @@
+
+    rock = new JButton("Rock");
+               paper = new JButton("Paper");
+               scissors = new JButton("Scissors");
